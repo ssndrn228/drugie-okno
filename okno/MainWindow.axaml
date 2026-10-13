@@ -5,6 +5,7 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="okno.MainWindow"
         Title="Mój warsztat"
-        Width="800">
+        Width="800"
+        Height="500">
     <TextBlock Text="Warsztat" HorizontalAlignment="Center" VerticalAlignment="Center" />
 </Window>
