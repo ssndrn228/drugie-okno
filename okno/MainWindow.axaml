@@ -8,5 +8,5 @@
         Width="800"
         Height="500"
         Background="LightBlue">
-    <TextBlock Text="Warsztat" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" />
+    <TextBlock Text="Warsztat" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" FontWeight="Bold" />
 </Window>
