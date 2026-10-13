@@ -10,6 +10,6 @@
         Background="LightBlue">
     <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
         <TextBlock Text="Warsztat" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" FontWeight="Bold" />
-        <TextBlock Text="Moja pierwsza aplikacja" HorizontalAlignment="Center" />
+        <TextBlock Text="Moja pierwsza aplikacja" HorizontalAlignment="Center" Foreground="DarkGray" />
     </StackPanel>
 </Window>
