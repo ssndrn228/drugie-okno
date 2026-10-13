@@ -8,5 +8,8 @@
         Width="800"
         Height="500"
         Background="LightBlue">
-    <TextBlock Text="Warsztat" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" FontWeight="Bold" />
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBlock Text="Warsztat" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" FontWeight="Bold" />
+        <TextBlock Text="Moja pierwsza aplikacja" HorizontalAlignment="Center" />
+    </StackPanel>
 </Window>
